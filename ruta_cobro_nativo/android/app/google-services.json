@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34627842260",
+    "project_id": "ruta-cobro-rd-prueba",
+    "storage_bucket": "ruta-cobro-rd-prueba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34627842260:android:abc304084144952be50b41",
+        "android_client_info": {
+          "package_name": "com.rutacobro.rd.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34627842260-ee18jl1c5h2ppsdqk8a3u44kl71k1qc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLVm5TEvbM9XgqP2XSKEbWdY75lNGyaaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34627842260-ee18jl1c5h2ppsdqk8a3u44kl71k1qc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
