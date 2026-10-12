@@ -146,7 +146,7 @@ class DataService {
 
     // rédito: fee puede venir fijo o por rate
     final f = fee > 0 ? fee : r2(capital * rate / 100);
-    final r = rate > 0 ? rate : (capital > 0 ? r2(f / capital * 100) : 0);
+    final r = rate > 0 ? rate : (capital > 0 ? r2(f / capital * 100) : 0.0);
     return Loan(
       id: id,
       clientId: clientId,
